@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MokiSenderApp</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="send_data">Send Data</string>
+
+    <string name="ppal_url">https://catfact.ninja/</string>
+</resources>
